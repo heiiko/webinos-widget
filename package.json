@@ -6,14 +6,14 @@
   "bugs": "http://jira.webinos.org",
   "repository": 
    { "type": "git",
-     "url": "git://github.com/webinos/webinos-widget.git"
+     "url": "git://github.com/heiiko/webinos-widget.git"
    },
   "directories": {
    "lib":"./lib",
    "node_modules": "./node_modules"
   },
   "dependencies":{
-   "webinos-utilities": "git://github.com/webinos/webinos-utilities.git",
+   "webinos-utilities": "git://github.com/heiiko/webinos-utilities.git",
    "zipfile": ">= 0.4.1",
    "xml2js": "0.2.x",  
    "data2xml": "0.8.x",
